@@ -1,7 +1,7 @@
 Mars is 4th planet from sun.
 
 Mars has two stars.
-
+Mars is the greek god of war.
 Mars is red and dry.
 
 I need to learn to save commits.
